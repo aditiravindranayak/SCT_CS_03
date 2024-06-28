@@ -21,3 +21,11 @@ This Python script assesses the strength of a password based on criteria such as
 Enter a password to assess its strength: P@ssw0rd123
 The password strength is: Very Strong
 ```
+### Criteria Breakdown
+
+- **Very Weak:** 0 criteria met.
+- **Weak:** 1 criterion met.
+- **Fair:** 2 criteria met.
+- **Good:** 3 criteria met.
+- **Strong:** 4 criteria met.
+- **Very Strong:** All 5 criteria met.
